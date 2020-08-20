@@ -2,7 +2,7 @@
     "use strict";
 
     function init() {
-        var url = atob("aHR0cHM6Ly9maW5kbXljYXJ0LmluL2RlbW8v"),
+        var url = atob("aHR0cHM6Ly9maW5kbXljYXJ0LmluLw=="),
         iawin = window.open(url, "_blank", "location=no,clearcache=yes,zoom=no,footer=no"),
         error = false;
 
